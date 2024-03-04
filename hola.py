@@ -1,3 +1,2 @@
-el meu primer fitxer
-
-això és la branca den john
+el meu primer fitxer asdfasdf
+dgsf
